@@ -1,0 +1,6 @@
+C:\dotNet2\FizzBuzz\FizzBuzz.Service\bin\Debug\FizzBuzz.Service.dll
+C:\dotNet2\FizzBuzz\FizzBuzz.Service\bin\Debug\FizzBuzz.Service.pdb
+C:\dotNet2\FizzBuzz\FizzBuzz.Service\obj\Debug\FizzBuzz.LogicService.csprojResolveAssemblyReference.cache
+C:\dotNet2\FizzBuzz\FizzBuzz.Service\obj\Debug\FizzBuzz.LogicService.csproj.CoreCompileInputs.cache
+C:\dotNet2\FizzBuzz\FizzBuzz.Service\obj\Debug\FizzBuzz.Service.dll
+C:\dotNet2\FizzBuzz\FizzBuzz.Service\obj\Debug\FizzBuzz.Service.pdb
